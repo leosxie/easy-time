@@ -1,4 +1,4 @@
-# easy-time
+# easy_time
 easy format date (current time)eg.today 15:43  yesteday 13:43
 #time的时间格式必须为10位数去除毫秒的
 #install&use
