@@ -1,0 +1,4 @@
+{
+	"today": "today",
+	"yestoday": "yestoday"
+}

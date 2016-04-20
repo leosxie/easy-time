@@ -1,7 +1,6 @@
-var i18n = require("i18n");
-i18n.configure({
-    locales:['en', 'zh_CN'],
-    directory: __dirname + '/locales'
+var i18n  = new (require('i18n-2'))({
+    //设置本地语言文件，第一个为默认的
+    locales: ['zh-CN','en']
 });
 function easyTime(time) {
     if (!/\d{10}/.test(time + "")) {
