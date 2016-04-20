@@ -1,6 +1,6 @@
 {
   "name": "easy_time",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "use this util you can easy formatter time ",
   "main": "index.js",
   "dependencies": {
