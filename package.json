@@ -1,0 +1,28 @@
+{
+  "name": "easy_time",
+  "version": "1.0.1",
+  "description": "use this util you can easy formatter time ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovesmilesha/easy-time.git"
+  },
+  "keywords": [
+    "format",
+    "date",
+    "time",
+    "leave",
+    "you"
+  ],
+  "author": "flybird",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovesmilesha/easy-time/issues"
+  },
+  "homepage": "https://github.com/lovesmilesha/easy-time#readme"
+}
