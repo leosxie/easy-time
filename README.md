@@ -3,7 +3,8 @@ easy format date (current time)eg.today 15:43  yesteday 13:43
 #time的时间格式必须为10位数去除毫秒的
 #install&use
   * npm install easy-time
-  *使用
+  * test npm test
+  * use
   
 ```javascript
     var et = require('easy-time');
